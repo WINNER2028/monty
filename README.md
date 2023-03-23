@@ -1,3 +1,5 @@
-0x19. C - Stacks, Queues - LIFO, FIFO 
+0x19. C - Stacks, Queues - LIFO, FIFO.
+
 project repository MONTY
+
 project author: OBI CHIEMERIE
